@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on web applications****
+- 🔭 I’m currently working on web applications.
 
 - 🌱 I’m currently learning **Design patterns**
 
